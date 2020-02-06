@@ -1,0 +1,4 @@
+master filemaster fiel
+
+stash is applying
+ smart git
